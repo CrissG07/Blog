@@ -1,4 +1,3 @@
 Esta es la historia de Cristian 
 Tiene 18 años y esta en el curso de git y github 
-nacio en colombia 
-su estatura es de 180 y va al gym
+nacio en colombia y le gusta el gym

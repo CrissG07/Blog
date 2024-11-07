@@ -5,7 +5,7 @@ Un Blog increible para el curso de Git y Github de Platzi
 
 Este repositorio contiene los apuntes y prácticas del **Curso de Git y GitHub** realizado en Platzi. Aprendí los conceptos básicos y avanzados de Git, así como el uso de GitHub para gestionar versiones de proyectos y colaborar en equipo.
 * Creado por Cristian
-
+* Incluye ejemplos de Windows, Linux y Mac
 ## Contenidos del curso 📚
 
 1. **Introducción a Git**
